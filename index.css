@@ -1,0 +1,30 @@
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  background-color: mintcream;
+}
+h1 {
+  font-family: courier, monospace;
+  font-size: 3em;
+  line-height: normal;
+  color: purple;
+}
+hr {
+  border: 1px solid black;
+  border-radius: 1px;
+}
+p {
+  font-family: courier, monospace;
+  font-size: 1.3em;
+  color: purple;
+}
+h2 {
+  font-family: courier, monospace;
+  font-size: 1.3em;
+  color: purple;
+}
+li {
+  font-family: courier, monospace;
+  font-size: 1.3em;
+  color: purple;
+}
